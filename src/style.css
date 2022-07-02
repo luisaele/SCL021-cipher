@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro');
+   
+* {
+  font-family: 'Source Code Pro' monospace;
+}
+
+body {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("img/cesar1.jpg");
+  color: black;
+}
+
+
+main {
+  padding: 50px;
+  background-color: #a18262;
+  box-shadow: 10px 10px 35px 0px rgb(0 0 0 /75%);
+}
+ 
+h1 {
+  padding: 20px;
+  box-shadow: 10px 10px 35px 0px rgb(0 0 0 /75%);
+  background-color: beige;
+}
+
+  #input-original {
+  margin: 15px 0 0;
+  padding: 10px;
+  color: white;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+  button {
+  text-decoration: none;
+  padding: 10px;
+  background: #a18262;
+  font-size: 1em
+}
+
+p {
+  padding: 20px;
+  background-color: black;
+  font-size: 1em;
+  text-shadow: 1px 1px #fff;
+  text-transform: uppercase;
+  font: 'arial';
+  position: absolute;
+  left: 70%;
+  top: 70%
+}
+

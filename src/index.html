@@ -2,13 +2,23 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
+    <meta http-equiv="X-UA-compatible"content="IE=edge">
+    <meta name="viewport" content="witdth=device-witdht, initial-scale=1.0">
+    <title>Cifrado Cesar</title>
+    <link href="style.css" rel="stylesheet" />
+    <script src="index.js"></script>
   </head>
   <body>
-    <div id="root">
-      <h1>Hello world!</h1>
-    </div>
-    <script src="index.js" type="module"></script>
+       <main>
+       <h4>MENSAJE:</h4>
+       <input type="text" id="mensaje"/>
+       <h4>DESPLAZAMIENTO:</h4>
+       <input type="number" id="desplazamiento" size="4"/>
+       <h5><button type="button" id="Cifrar">Cifrar</button>
+       <button type="buttom" id="Descifrar">Descifrar</button></h5>
+       <h4>MENSAJE CIFRADO/DESCIFRADO:</h4>
+       <input type="text" id="mensaje2"/>
+       </main>
+      <h2><button><a href="cifrado.html">VOLVER</a></button></h2>
   </body>
 </html>
