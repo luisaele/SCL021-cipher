@@ -5,25 +5,24 @@
 }
 
 body {
-  height: 100vh;
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-image: url("img/cesar1.jpg");
   color: black;
 }
 
-
 main {
-  padding: 50px;
-  background-color: #a18262;
+  padding: 30px;
+  display: flex;
+  background-color: #d09171;
   box-shadow: 10px 10px 35px 0px rgb(0 0 0 /75%);
 }
  
-h1 {
+h1 { 
   padding: 20px;
+  justify-content: center;
+  background-color: white;
+  display: flex;
   box-shadow: 10px 10px 35px 0px rgb(0 0 0 /75%);
-  background-color: beige;
+
 }
 
   #input-original {
