@@ -5,21 +5,26 @@
 }
 
 body {
-  background-image: url("img/cesar1.jpg");
+  background-image: url("img/cesar2.jpg");
   color: black;
+  margin: 10px;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  margin: 150px;
 }
 
 main {
   padding: 30px;
-  display: flex;
-  background-color: #d09171;
+  background-color: rgb(99, 191, 207);
   box-shadow: 10px 10px 35px 0px rgb(0 0 0 /75%);
+
 }
  
 h1 { 
   padding: 20px;
   justify-content: center;
-  background-color: white;
+  background-color: rgb(99, 191, 207);
   display: flex;
   box-shadow: 10px 10px 35px 0px rgb(0 0 0 /75%);
 
@@ -36,15 +41,14 @@ h1 {
   button {
   text-decoration: none;
   padding: 10px;
-  background: #a18262;
+  background: rgb(159, 159, 180);
   font-size: 1em
 }
 
 p {
   padding: 20px;
-  background-color: black;
+  background-color: rgb(99, 191, 207);;
   font-size: 1em;
-  text-shadow: 1px 1px #fff;
   text-transform: uppercase;
   font: 'arial';
   position: absolute;
