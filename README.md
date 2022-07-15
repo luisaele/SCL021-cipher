@@ -9,4 +9,8 @@ Inicia con una Bienvenida y un relato en que consiste este método y los invita 
 
 FUNCIONALIDAD: Es que el usuario pueda entrar en la aplicación y encripte sus mensajes, dándole mayor seguridad a su información, sustituyendo un carácter por el carácter situado 3 posiciones después del alfabeto.
 
+<<<<<<< HEAD
 DESICIÓN DEL PROYECTO: Tomé la desición de realizar este proyecto para ayudar a las personas a tener una mayor seguridad con mensajes codificados.
+=======
+DESICIÓN DEL PROYECTO: Tomé la desición de realizar este proyecto para ayudar a las personas a tener una mayor seguridad con mensajes codificados.
+>>>>>>> 03bb463822ae44861cd67465ae3ce048b0cc615a
